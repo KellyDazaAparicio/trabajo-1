@@ -1,0 +1,79 @@
+body{
+background: linear-gradient(180deg, #f5536f 0%, #fb506e 100%);
+z-index: 1;
+padding: 2px 0;
+color: #fff;
+font-family: Roboto,fallback-font;
+}
+head {
+    align-items: center;
+    min-height: 821px;
+}
+.inicio1 {
+    padding-top: 2px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 5px; 
+    width:800px;   
+}
+.parte1 {
+     
+padding-top: 0px;
+    padding-bottom: 5px;
+    padding-left: 70%;
+    padding-right: 10px;
+    margin: -50px 0% 2px 0%;
+    width: 400px;
+
+       
+}
+.esquina {
+    border: 2px solid rgb(252, 251, 253);
+    border-radius: 20px;
+    margin: 20px;   
+}
+.letra{
+    font-size: x-large
+}
+.boton{
+    font-size: 12px;
+    padding: 16px 38px;
+    border-width: 2;
+}
+.comenzar {
+    border-radius: 20px;
+    margin: 30px;  
+    background-color: #583bb6;
+    border-color: #583bb6;
+    font-size: 12px;
+    padding: 16px 38px;
+    border-width: 2;
+}
+footer{
+    margin-top: 5%;
+    margin-left: 5%;
+
+}
+.pie {
+    border-collapse: separate;
+    border-spacing: 10px 5px 2px;
+    
+}
+.pi {
+    border: 2px solid rgb(252, 251, 253);
+    border-radius: 20px;
+    margin: 20px;  
+    align-items: center;
+}
+.final2{
+    border: 2px solid rgb(252, 251, 253);
+    border-radius: 20px;
+    margin: 20px; 
+}
+.final3{
+    border: 2px solid rgb(252, 251, 253);
+    border-radius: 20px;
+    margin: 5px; 
+}
+
+ 
